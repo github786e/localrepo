@@ -1,0 +1,1 @@
+const aman = [aman1,aman2]
